@@ -5,6 +5,9 @@
 [submodule "ParBayesianOptimization"]
 	path = ParBayesianOptimization
 	url = https://github.com/novica/parbayesianoptimization
+[submodule "inlaops"]
+	path = inlaops
+	url = https://github.com/novica/inlaops
 [submodule "shinyds"]
 	path = shinyds
 	url = https://github.com/novica/shinyds
